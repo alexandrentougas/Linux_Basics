@@ -29,4 +29,6 @@ python3 -m http.server 5000
 > the default folder where files are shared on the student machine is /var/lib/tftpboot so I copied passwd in there as root user first
 
 > your commands : tftp 10.12.181.103
-> get passw
+> get passwd
+
+[Next](./Privilege_Escalation.md)

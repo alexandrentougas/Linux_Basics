@@ -8,3 +8,4 @@
 - [Bash_environment](./Bash_environment.md)
 - [Protocols_and_Servers](./Protocols_and_Servers.md)
 - [Downloading_files](./Downloading_files.md)
+- [Privilege_Escalation](./Privilege_Escalation.md)
