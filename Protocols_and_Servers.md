@@ -12,47 +12,47 @@
 
 > No answer required  
 
-1. What other well-known service could be used instead of nginx?
+2. What other well-known service could be used instead of nginx?
 
 > Your answer : Apache
 
-1. On your student machine, create a temporary http server with python, on port ``5000``. Then on your kali machine, open a browser and go to the address ``10.12.181.X:``.
+3. On your student machine, create a temporary http server with python, on port ``5000``. Then on your kali machine, open a browser and go to the address ``10.12.181.X:``.
 
 > Your command : python3 -m http.server --bind 10.12.181.103 5000  
 
-1. Let's imagine that a hacker owns the domain name ``g00gle.com``, which tool would allow him to obtain an ssl certificate (https) very easily?
+4. Let's imagine that a hacker owns the domain name ``g00gle.com``, which tool would allow him to obtain an ssl certificate (https) very easily?
 
 > Your answer : with something like https://letsencrypt.org/  
 
-1. On a linux machine, what tool could you use to have a self-signed SSL certificate on your local machine (localhost) ?
+5. On a linux machine, what tool could you use to have a self-signed SSL certificate on your local machine (localhost) ?
 
 > Your answer : openssl
 
-1. On your student machine, install the ftp service and connect from your kali machine.
+6. On your student machine, install the ftp service and connect from your kali machine.
 
 > No answer required
   
-1. What is the default port for ftp?
+7. What is the default port for ftp?
 
 > Your answer : TCP port 21
 
-1. Is the ftp protocol secured?
+8. Is the ftp protocol secured?
 
 > Your answer : No, it doesn't use any encryption 
 
-1. On your student machine, install the telnet service and connect from your kali machine.
+9. On your student machine, install the telnet service and connect from your kali machine.
 
 > No answer required
 
-1. What is the default port for telnet?
+10. What is the default port for telnet?
 
 > Your answer : TCP 23
 
-1. Is the telnet protocol secured?
+11. Is the telnet protocol secured?
 
 > Your anbswer : No, it doesn't use any encryption
 
-1. Create a share file with samba between your Kali machine and your student machine.
+12. Create a share file with samba between your Kali machine and your student machine.
 
 > No answer required
 
